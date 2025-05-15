@@ -7,7 +7,7 @@
 - Machine Learning and LLMs
 
 ## 📫 How to reach me
-Feel free to reach out via `https://unkit.site/contact` 
+Feel free to reach out via `[https://unkit.site/contact]` 
 
 ## ⚡ Fun fact
 I’m building a LLM from scratch.
