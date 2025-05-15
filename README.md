@@ -1,14 +1,15 @@
 # 👋 Hi, I’m Unkit
 
-## 🌱 Me
-- Python, Javascript, Go, C
-- FastAPI, Next.js, Django, PostgreSQL, Redis, Docker, Kubernetes, AWS
-- Quantitative research and algorithmic problem solving
-- Machine Learning and LLMs
+## 🌱 About Me
+- 💻 Languages: Python, JavaScript, Go, C
+- 🛠️ Tools & Frameworks: FastAPI, Next.js, Django, PostgreSQL, Redis, Docker, Kubernetes, AWS
+- 📊 Interests: Quantitative research, algorithmic problem solving, machine learning, and LLMs
+- 🤖 Currently building a language model from scratch to generate complete, framework-free applications
+- 🧠 I believe most frameworks are bloat — simplicity and control are my core dev values
 
-## 📫 How to reach me
-Feel free to reach out via https://unkit.site/contact
+## 📫 How to Reach Me
+🌐 [unkit.site/contact](https://unkit.site/contact)
 
-## ⚡ Fun fact
-I’m building a LLM from scratch.
+## ⚡ Fun Fact
+I’m building an LLM from scratch.  
 Also, I use Arch Linux btw 😎
