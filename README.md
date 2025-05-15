@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Unkit
 
 ## 🌱 About Me
-- 💻 Languages: Python, JavaScript, Go, C
+- 💻 Languages: C, Python, JavaScript, Go, Dart
 - 🛠️ Tools & Frameworks: FastAPI, Next.js, Django, PostgreSQL, Redis, Docker, Kubernetes, AWS
 - 📊 Interests: Quantitative research, algorithmic problem solving, machine learning, and LLMs
 - 🤖 Currently building a language model from scratch to generate complete, framework-free applications
