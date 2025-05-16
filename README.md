@@ -4,7 +4,7 @@
 - 💻 Languages: C, Python, JavaScript, Go, Dart
 - 🛠️ Tools & Frameworks: FastAPI, Next.js, Django, PostgreSQL, Redis, Docker, Kubernetes, AWS
 - 📊 Interests: Quantitative research, algorithmic problem solving, machine learning, and LLMs
-- 🤖 Currently building a language model from scratch to generate complete, framework-free applications
+- 🤖 Currently building a language model from scratch...
 - 🧠 I believe most frameworks are bloat — simplicity and control are my core dev values
 
 ## 📫 How to Reach Me
