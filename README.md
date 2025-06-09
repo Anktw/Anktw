@@ -7,4 +7,4 @@
 ## 📫 How to Reach Me
 🌐 [unkit.site/contact](https://unkit.site/contact)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anktw&show_icons=true&locale=en&layout=compact&theme=dark" alt="anktw" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anktw&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="anktw" /></p>
