@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Ankit Tiwari
-
 ## 🌱 About Me
 - 🛠️ Tools & Frameworks: FastAPI, Next.js, Django, Springboot, PostgreSQL, Redis, Docker, Kubernetes, AWS
 - 📊 Interests: Quantitative research, algorithmic problem solving, machine learning, and LLMs
